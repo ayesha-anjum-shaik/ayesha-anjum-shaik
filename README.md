@@ -18,7 +18,7 @@
 
 ### :woman_technologist: About Me :
 > I am currently a graduate student of Texas Tech University<img src="https://www.kcbd.com/resizer/hfQIiAtbik8z9x4ik2rpw5dO0h0=/1400x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/MAVN3QCBVFFBBE7KYJAJL7EGX4.jpg" width="30"> residing in Texas, USA <br>
-> I am actively applying for the roles of a Software Developer/ Data Scientit/ Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+> I am actively applying for the roles of a Software Developer/ Web Developer/ Data Scientist/ Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 > I have 2+ years of experience in Software Industry at Infosys, Hyderabad, India <br>
 > To reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ayesha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayeshashaik2707/)
 
