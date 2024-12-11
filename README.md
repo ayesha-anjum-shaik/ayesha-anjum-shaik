@@ -17,15 +17,21 @@
 </h1>
 
 ### :woman_technologist: About Me :
-> I am currently a graduate of Texas Tech University<img src="https://www.kcbd.com/resizer/hfQIiAtbik8z9x4ik2rpw5dO0h0=/1400x0/arc-anglerfish-arc2-prod-raycom.s3.amazonaws.com/public/MAVN3QCBVFFBBE7KYJAJL7EGX4.jpg" width="30"> residing in Texas, USA <br>
-> I am actively applying for the roles of a ETL Developer/ Data Scientist/ Data Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
-> I have 2+ years of experience in Software Industry at Infosys, Hyderabad, India <br>
+> I am Computer Science Graduate of Texas Tech University residing in Chicago, Illinois, USA <br>
+> I have overall 5+ years of experience in Software Industry in different roles <br>
 > To reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ayesha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayeshashaik2707/)
 
 <hr></hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <h3>Data Engineering & ETL</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tinybird/tinybird-original.svg" title="Tinybird" alt="Tinybird" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazon/amazon-original.svg" title="Amazon Kinesis" alt="Amazon Kinesis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>&nbsp;
+
   <h3> Languages </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
