@@ -27,7 +27,7 @@
 <div>
   <h3>Data Engineering & ETL</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tinybird/tinybird-original.svg" title="Tinybird" alt="Tinybird" width="40" height="40"/>&nbsp;
+  <img src="https://example.com/path/to/tinybird-icon.svg" title="Tinybird" alt="Tinybird" width="40" height="40"/>&nbsp; <!-- Replace with actual URL -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazon/amazon-original.svg" title="Amazon Kinesis" alt="Amazon Kinesis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>&nbsp;
