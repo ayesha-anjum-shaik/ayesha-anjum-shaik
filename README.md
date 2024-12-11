@@ -27,7 +27,7 @@
 <div>
   <h3>Data Engineering & ETL</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>&nbsp;
-  <img src="https://example.com/path/to/tinybird-icon.svg" title="Tinybird" alt="Tinybird" width="40" height="40"/>&nbsp; <!-- Replace with actual URL -->
+  <img src="https://www.google.com/imgres?q=tinybird%20icon%20technology%20picture&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD560BAQEvxtHtz4NYJA%2Fcompany-logo_200_200%2Fcompany-logo_200_200%2F0%2F1707472307598%2Ftinybird_co_logo%3Fe%3D2147483647%26v%3Dbeta%26t%3D174eT2eIOvRYBeiRNHVojroJIxNCw3uQ0126yGlX--0&imgrefurl=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Ftinybird-co&docid=d6bO0iCZsXgplM&tbnid=BSa9zm3pt21jbM&vet=12ahUKEwiW2vWVyKCKAxX9MtAFHWoRAzEQM3oECGwQAA..i&w=200&h=200&hcb=2&ved=2ahUKEwiW2vWVyKCKAxX9MtAFHWoRAzEQM3oECGwQAA" title="Tinybird" alt="Tinybird" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazon/amazon-original.svg" title="Amazon Kinesis" alt="Amazon Kinesis" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Apache Airflow" alt="Apache Airflow" width="40" height="40"/>&nbsp;
